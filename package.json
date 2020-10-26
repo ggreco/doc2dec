@@ -1,0 +1,15 @@
+{
+  "name": "doc2dec",
+  "version": "1.0.0",
+  "description": "test jsdoc to d.ts creation.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx typescript",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.0-beta"
+  }
+}
